@@ -1,6 +1,6 @@
 # Hi there, I'm Roca 👋
 
-Backend & Web Developer focused on building high-performance web applications and asynchronous Telegram bots.
+Backend & Web Developer focused on building high-performance web applications.
 
 ---
 
@@ -30,12 +30,5 @@ Backend & Web Developer focused on building high-performance web applications an
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial)
-
----
-
 ### 📫 Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roca228)
